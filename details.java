@@ -240,7 +240,7 @@ public class details {//Main Class
 		
 	System.out.print("You want to continue...Y/N");
 	t = sc1.next();
-}while(t=="Y" || t!="y");
+}while(t=="Y" || t!="y");//Currently not working properly
 	}//Ending of Main Method
 }//Ending of Main Class
 	
